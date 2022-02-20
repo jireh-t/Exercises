@@ -1,5 +1,5 @@
 import random
-number = random.randint(1, 5)
+number = random.randint(1, 10)
 guess = int(input("What is the number???"))
 while guess != number:
     if guess < number:
