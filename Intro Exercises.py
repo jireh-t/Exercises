@@ -6,7 +6,7 @@ print("Hello", name)
 food=input("What is your favourite food?")
 if food == "noodles":
     print("yum! that is the best food")
-elif food == "potatos":
+elif food == "potatoes":
     print("they are pretty nice but not as good as noodles")
 else:
     print("NOOO NOODLES ARE THE BEST and kind of potatos")
